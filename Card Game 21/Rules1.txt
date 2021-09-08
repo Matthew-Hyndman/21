@@ -1,0 +1,7 @@
+1. 1-5 cards are allowed.
+2. If satisfied with the added-up number of cards you “Stay”
+3. If dissatisfied with the added-up number of cards you click “Hit me”
+4. If number passes 21 you go bust and lost automatically (the AI wins)
+5. Face cards (e.g. King, Queen, etc.) count as 10 points
+6. At the beginning you receive 2 cards and the dealer gets 2 but one is face side down
+7. Aces can count as 1 or 11 points
